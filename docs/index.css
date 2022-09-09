@@ -23,7 +23,7 @@ h1{
     margin-right: 40px;
 }
 .slide{
-    margin-top: 200px;
+    margin-top: 300px;
 }
 .tag{
     position: absolute;
@@ -70,9 +70,31 @@ h1:hover{
   h1:hover {
     top: -50px;
   }
-
+  .sliderow{
+    height: 300px;
+    width: 500px;
+    margin-left: 20%;
+  }
+  .seccol{
+    float: right;
+  }
 iframe{
     border-radius: 10px;
     display: inline-block;
     box-shadow: 10px 0px 15px 10px #15161757;
 }
+.card{
+    border: none;
+    height: 300px;
+    width: 800px;
+    margin-left: 15%;
+}
+.carousel-control-next-icon{
+   background-color: #061B2B;
+}
+.carousel-control-prev-icon{
+    background-color: #061B2B;
+ }
+ li{
+    margin-left: 20px;
+ }

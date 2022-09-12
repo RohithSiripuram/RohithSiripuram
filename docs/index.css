@@ -72,9 +72,6 @@ h1:hover{
     transition: top ease 0.8s;
   }
 .hov:hover + .hide{
-    top: -50px;
-    transition: top ease 0.8s;
-    font-size: 20px;
     font-weight: 100;
     display: block;
     color: gray;
